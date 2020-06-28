@@ -15,3 +15,4 @@ a = Coordinator(("localhost", 7777))
 
 2. Now you can create multiple users, then use function create_session to register a new session with the coordinator. To join a session, use the join_session(session_name) function. To leave the session use leave_session() function. Once a session is joined into, you can use sen_message(your_message) to send the messaget to all persons connected to that session.
 
+[![Demo](http://img.youtube.com/vi/a-l4cGvE9PM/0.jpg)](http://www.youtube.com/watch?v=a-l4cGvE9PM "Demo video")
